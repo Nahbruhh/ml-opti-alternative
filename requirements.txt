@@ -1,0 +1,30 @@
+# Core Libraries
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+plotly
+
+# Optimization & Machine Learning
+deap  # Genetic Algorithm
+bayesian-optimization  # Bayesian Optimization
+optuna  # Hyperparameter Tuning
+xgboost  # Gradient Boosting for surrogate modeling
+
+# Streamlit for UI
+streamlit
+streamlit-option-menu
+streamlit-antd-components
+
+# ANSYS Integration
+ansys-api-discovery  # For ANSYS Discovery API integration
+
+# Utilities
+joblib  # Model saving/loading
+tqdm  # Progress bar
+pyyaml  # Config files
+requests  # API requests handling
+
+# Deployment (Optional)
+gunicorn  # For running on production servers
